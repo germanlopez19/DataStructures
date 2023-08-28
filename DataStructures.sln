@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearTable", "LinearTable\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearTableAnexar", "LinearTableAnexar\LinearTableAnexar.csproj", "{F0A4BB39-6057-4365-BE96-1847E319680D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearTableInsert", "LinearTableInsert\LinearTableInsert.csproj", "{F0B27EEC-69AD-483C-9AEE-614A2F72C857}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -21,6 +23,10 @@ Global
 		{F0A4BB39-6057-4365-BE96-1847E319680D}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{F0A4BB39-6057-4365-BE96-1847E319680D}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{F0A4BB39-6057-4365-BE96-1847E319680D}.Release|anycpu.Build.0 = Release|Any CPU
+		{F0B27EEC-69AD-483C-9AEE-614A2F72C857}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{F0B27EEC-69AD-483C-9AEE-614A2F72C857}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{F0B27EEC-69AD-483C-9AEE-614A2F72C857}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{F0B27EEC-69AD-483C-9AEE-614A2F72C857}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
